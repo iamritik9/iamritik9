@@ -13,7 +13,7 @@
 
 - 🤝 I’m looking for help with [Deploying Java Spring Boot Applications on Cloud](Let’s Connect on LinkedIn](https://www.linkedin.com/in/ritikchandramishra)
 
-- 👨‍💻 All of my projects are available at [https://github.com/ritikchandramishra](https://github.com/iamritik9)
+- 👨‍💻 All of my projects are available at [https://github.com/iamritik9](https://github.com/iamritik9)
 
 - 💬 Ask me about **Java, Spring Boot, React, DSA, MySQL, Git & GitHub**
 
